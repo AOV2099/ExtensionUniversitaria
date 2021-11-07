@@ -1,0 +1,16 @@
+.footer {
+  background-color: #0E2547;
+  color: white;
+}
+
+.footer-info {
+  font-size: 10px;
+  text-align: justify;
+  text-align-last: center;
+}
+
+.footer-item {
+  margin-left: 36px;
+  margin-bottom: 18px;
+}
+/*# sourceMappingURL=footer.css.map */
